@@ -2,6 +2,11 @@
 <html lang="en">
 
 <head>
+    <!------ JAVASCRIPT REQUIRES THE INCLUSION OF LUXON LIBRARY    
+             MAKE SURE TO VISIT https://moment.github.io/luxon/index.html!
+             LUXON FILES NOT INCLUDED HERE, ALL CREDITS TO IT'S CREATORS.   ----->
+    <script src="luxon.js"></script>
+    <!----   LUXON        ----->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Calendar</title>
@@ -60,7 +65,6 @@
             background: rgb(255, 255, 255);
         }
     </style>
-    <script src="luxon.js"></script>
     <script>
         var DateTime = luxon.DateTime;
         currentDate = DateTime.local();
