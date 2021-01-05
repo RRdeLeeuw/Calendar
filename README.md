@@ -1,10 +1,10 @@
 # Calendar
 
-This repository contains a very, very, simple JavaScript rendered calendar. 
+This repository contains a very, very, simple JavaScript rendered calendar. It is nothing more than me experimenting and learning about JavaScript, HTML and CSS.
 
 ## About me
 
-Programming/Web-development is a hobby of mine. I follow free online courses and try to learn new things as much I can. 
+Programming/Web-development is a hobby of mine. I follow free online courses and try to learn new things as much I can. Please keep in mind I am a beginner, if you have tips, tricks or constructive criticism please feel free to reach out. 
 
 ## Luxon disclaimer
 
