@@ -4,7 +4,7 @@ This repository contains a very, very, simple JavaScript rendered calendar. It i
 
 ## About me
 
-Programming/Web-development is a hobby of mine. I follow free online courses and try to learn new things as much I can. Please keep in mind I am a beginner, if you have tips, tricks or constructive criticism please feel free to reach out. 
+Programming/Web-development is a hobby of mine. I follow free online courses and try to learn new things as much I can. But I am in all means an amateur. Please keep in mind I am a beginner, if you have tips, tricks or constructive criticism please feel free to reach out. 
 
 ## Luxon disclaimer
 
